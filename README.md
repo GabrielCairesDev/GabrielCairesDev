@@ -41,14 +41,3 @@ Se você busca um desenvolvedor Flutter comprometido com qualidade de código, a
 📲 **LinkedIn:** [linkedin.com/in/gabrielcairesdev](https://www.linkedin.com/in/gabrielcairesdev/)
 
 ---
-
-## ✍️ Últimos Artigos no Medium
-
-- [Flutter: Como salvar localmente usando shared_preferences ou flutter_secure_storage](https://medium.com/@gabriel.araujo.caires/flutter-como-salvar-localmente-usando-shared-preferences-ou-flutter-secure-storage-8c1e6f7e5e7c)
-- [Flutter: Como Aplicar flutter_screenutil e Seguir o Padrão do Figma em Diferentes Dispositivos](https://medium.com/@gabriel.araujo.caires/flutter-como-aplicar-flutter-screenutil-e-seguir-o-padr%C3%A3o-do-figma-em-diferentes-dispositivos-6a1b2c3d4e5f) 
-- [Flutter: Como usar Biometria para Bloquear e Desbloquear o App](https://medium.com/@gabriel.araujo.caires/flutter-como-usar-biometria-para-bloquear-e-desbloquear-o-app-7b8c9d0e1f2g) 
-- [Flutter: Um APP, Vários Temas](https://medium.com/@gabriel.araujo.caires/flutter-um-app-v%C3%A1rios-temas-3c4d5e6f7g8h) 
-
-📚 Confira todos os artigos no [meu perfil no Medium](https://medium.com/@gabriel.araujo.caires)
-
----
