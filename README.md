@@ -1,104 +1,125 @@
-# 👨‍💻 Gabriel Caires 🚀
+# Gabriel Caires
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielcairesdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Caires-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/GabrielCairesDev">
-    <img src="https://img.shields.io/badge/GitHub-GabrielCairesDev-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linktr.ee/gabrielcaires">
-    <img src="https://img.shields.io/badge/Portfólio-Linktree-39E09B?style=for-the-badge&logo=linktree">
-  </a>
-  <a href="https://medium.com/@gabriel.araujo.caires">
-    <img src="https://img.shields.io/badge/Medium-@gabriel.araujo.caires-000000?style=for-the-badge&logo=medium">
-  </a>
-</p>
+🚀 **Desenvolvedor Mobile | Focado em Flutter/Dart - Android, IOS e WEB**
+
+📍 Brasília - DF
+
+📧 gabriel.araujo.caires@gmail.com
+
+🔗 [LinkedIn](https://linkedin.com/in/gabrielcairesdev)
+
+🔗 [Portfólio](https://linktr.ee/gabrielcaires)
 
 ---
 
-## 💼 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Sou **Gabriel Caires**, Desenvolvedor de Software especializado em **Flutter (Dart)**, com forte atuação na construção de soluções **Mobile (Android e iOS)** e **Web**.
+Sou **Desenvolvedor Mobile especializado em Flutter e Dart**, atuando de ponta a ponta em soluções **Mobile e Web**.
 
-Tenho foco em criar aplicações **performáticas, escaláveis e com excelente experiência do usuário (UX)**. Possuo experiência sólida em integrações nativas utilizando **Kotlin/Java (Android)** e **Swift (iOS)**.
+Meu diferencial técnico é a capacidade de ir além do cross-platform, desenvolvendo **integrações nativas** com **Kotlin/Java (Android)** e **Swift (iOS)**. Possuo sólida experiência no ciclo completo de desenvolvimento, desde a refatoração de código até a publicação final na **Google Play** e **App Store**.
 
----
-
-## 🚀 Destaques da Minha Trajetória
-
-- 💳 **Setores:** Fintech, Mobilidade Urbana, Edtech e Delivery  
-- 🧩 **Modelos de negócio:** SaaS e White Label  
-- 🏗️ **Arquitetura:** Clean Architecture, SOLID  
-- 🔄 **Metodologias ágeis:** Scrum e Kanban  
-- 📦 **Deploy:** Publicação na Google Play e App Store  
+Com histórico de entregas nos setores:
+* 💳 **Financeiro / Bancário**
+* 🛵 **Delivery**
+* 🚗 **Mobilidade Urbana**
+* 🎓 **Educação**
 
 ---
 
-## 🛠️ Tecnologias & Especialidades
+## 🛠️ Tecnologias
 
-### 📱 Linguagens & Frameworks
-- **Principal:** Flutter, Dart  
-- **Nativo:** Kotlin, Java (Android) | Swift (iOS)  
-- **Outros:** Pawn  
+### **Stack principal**
+* Flutter
+* Dart
 
-### 🧠 Arquitetura & Qualidade
-- Clean Architecture • SOLID  
-- ChangeNotifier • ValueNotifier • SetState  
-- Testes Unitários • Widget • Integração  
-- MethodChannel  
+### **Desenvolvimento nativo e integrações**
+* Kotlin
+* Java
+* Swift
+* Platform Channels
 
-### ☁️ Backend & Banco de Dados
-- Supabase • Firebase • Back4app  
-- PostgreSQL • MySQL • SQLite  
+### **Cloud & Backend**
+* Firebase
+* Supabase
+* Back4App
 
----
+### **Banco de Dados**
+* PostgreSQL
+* MySQL
+* SQLite
 
-## 🏢 Experiência Profissional
+### **Ferramentas e Lojas**
+* Git
+* CI/CD
+* Google Play Console
+* App Store Connect
 
-### 📌 Lingopass (Edtech)
-**Desenvolvedor Flutter** *(Nov/2025 - Atual)*  
-- Desenvolvimento Web e Mobile  
-- Prototipação de produtos  
-
-### 📌 Hoogli (SaaS)
-**Desenvolvedor Flutter** *(Jun/2025 - Nov/2025)*  
-- Apps White Label e SaaS  
-- Foco em performance  
-
-### 📌 GS3 Tecnologia (Fintech / BRB)
-**Desenvolvedor Flutter** *(Mar/2024 - Jul/2025)*  
-- Apps **BRBCARD** e **BRBCARD Dux**  
-
-### 📌 Chegou Mercado (Delivery)
-**Desenvolvedor Flutter** *(Ago/2023 - Mar/2024)*  
-- App Cliente, Entregador e Painel Web  
+### **Princípios e Metodologias**
+* SOLID
+* Scrum
+* Kanban
 
 ---
 
-## 📱 Portfólio
+## 🎓 Formação Acadêmica
 
-| Aplicativo | Setor | Plataformas |
-| :--- | :--- | :--- |
-| **BRBCARD / BRB Dux** | Financeiro | [Android](https://play.google.com/store/apps/details?id=br.com.moringadigital.cartaobrbapp) / [iOS](https://apps.apple.com/br/app/brbcard/id912963158) |
-| **LingoPass** | Edtech | [Android](https://play.google.com/store/apps/details?id=br.com.lingopass.app&hl=pt) / [iOS](https://apps.apple.com/br/app/lingopass-go/id6751647389) |
-| **Vem Drive** | Mobilidade | [Android](https://play.google.com/store/apps/details?id=com.vemdrivebr.passageiro) / [iOS](https://apps.apple.com/br/app/vem-drive/id6749900202) |
-| **Chegou Mercado** | Delivery | [Android](https://play.google.com/store/apps/details?id=br.com.chegoumercado.client) / [iOS](https://apps.apple.com/br/app/chegou-mercado/id6477545781) |
-| **Blooim** | Cursos/CRM | [Android](https://play.google.com/store/apps/details?id=com.blooim) / [iOS](https://apps.apple.com/br/app/blooim-cursos/id6751894465) |
+* **Pós-Graduação em Engenharia de Software** | Descomplica Faculdade Digital (2025 – Em andamento)
+* **Tecnólogo em Gestão de Segurança Privada** | Universidade Cruzeiro do Sul (2019 – 2021)
 
 ---
 
-## 🎓 Formação
+## 💼 Experiência Profissional
 
-- 🎓 Pós-graduação em Engenharia de Software — Descomplica *(em andamento)*  
-- 🎓 Gestão de Segurança Privada — UDF  
+### **Lingopass** — Desenvolvedor Flutter
+**nov/2025 – atual** | Sumarezinho/SP - Remoto
+
+* Atuação direta na manutenção, correção de bugs e evolução contínua do sistema em Flutter.
+* Foco em melhorar a estabilidade do código e implementar novas soluções mobile/web.
+* Alinhamento de entregas através de prototipação junto ao time de Produto.
+
+### **Hoogli** — Desenvolvedor Flutter
+**jun/2025 – nov/2025** | Brasília/DF – Presencial
+
+* Único Desenvolvedor Flutter da equipe, liderando o desenvolvimento de aplicativos de mobilidade, cursos e CRM.
+* Especialista responsável pela criação da arquitetura de soluções white-label da empresa.
+* Gestão completa do processo de publicação nas lojas (Google Play e App Store).
+
+### **GS3 Tecnologia** — Desenvolvedor Flutter
+**mar/2024 – jul/2025** | Brasília/DF – Presencial
+
+* Migração completa do aplicativo **BRBCARD** de Ionic para Flutter, com foco em performance.
+* Estruturação da versão white-label e exclusiva **BRBCARD Dux**.
+* Responsável Técnico pelos aplicativos, garantindo segurança em regras críticas do setor financeiro.
+
+### **Chegou Mercado** — Desenvolvedor Flutter
+**ago/2023 – mar/2024** | Pau dos Ferros/RN – Remoto
+
+* Finalização do ecossistema de delivery (App Cliente, Entregador e Painel Web).
+* Garantia do lançamento oficial nas lojas e sustentação pós-deploy.
 
 ---
 
-## 📢 Contato
+## 📱 Aplicativos Publicados
 
-Se você busca um desenvolvedor Flutter focado em qualidade e resultado, vamos conversar!
+### **Financeiro**
+* **BRBCARD** (Cartão de crédito): [Android](https://play.google.com/store/apps/details?id=br.com.moringadigital.cartaobrbapp) | [iOS](https://apps.apple.com/br/app/brbcard/id912963158)
+* **BRBCARD DUX** (White Label): [Android](https://play.google.com/store/apps/details?id=br.com.brbcard.dux) | [iOS](https://apps.apple.com/br/app/brb-dux/id1552280987)
 
-- 📩 **Email:** gabriel.araujo.caires@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/gabrielcairesdev/  
-- 🌐 **Portfólio:** https://linktr.ee/gabrielcaires  
+### **Educação**
+* **LingoPass** (Ensino de idiomas): [Android](https://play.google.com/store/apps/details?id=br.com.lingopass.app&hl=pt) | [iOS](https://apps.apple.com/br/app/lingopass-go/id6751647389)
+* **Vem Drive Academy** (Cursos): [iOS](https://apps.apple.com/br/app/vem-drive-academy/id6751515275)
+* **Blooim** (Cursos): [Android](https://play.google.com/store/apps/details?id=com.blooim) | [iOS](https://apps.apple.com/br/app/blooim-cursos/id6751894465)
+
+### **Delivery**
+* **Chegou Mercado** (Cliente): [Android](https://play.google.com/store/apps/details?id=br.com.chegoumercado.client) | [iOS](https://apps.apple.com/br/app/chegou-mercado/id6477545781)
+* **Chegou Mercado Entregador**: [Android](https://play.google.com/store/apps/details?id=br.com.chegoumercado.entregador)
+
+### **Mobilidade Urbana**
+* **Vem Drive Passageiro**: [Android](https://play.google.com/store/apps/details?id=com.vemdrivebr.passageiro) | [iOS](https://apps.apple.com/br/app/vem-drive/id6749900202)
+* **Vem Drive Motorista**: [Android](https://play.google.com/store/apps/details?id=com.navibr.motorista) | [iOS](https://apps.apple.com/br/app/vem-drive-motorista/id6751057830)
+
+---
+
+## 💻 Sites Publicados
+* [Plataforma LingoPass](https://go.lingopass.com.br/app/)
+* [Portal Chegou Mercado](https://chegoumercado.com.br/)
